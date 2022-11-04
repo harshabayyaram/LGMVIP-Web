@@ -1,2 +1,2 @@
-# LGMVIP-Web
+# LGMVIP-Web internship
 growmore internship
